@@ -24,6 +24,6 @@ $$g(z) = \ln(z) + i \cdot 2\arg(z)$$
 
 ### Результат работы программы
 
-![](out/pic1.png)
+![](out/input.png)
 
-![](out/pic2.png)
+![](out/output.png)
