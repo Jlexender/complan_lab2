@@ -1,4 +1,4 @@
-package transform
+package mapping
 
 func GenerateRectangleSet(start, end complex128, step float64) []complex128 {
 	var result []complex128

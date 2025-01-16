@@ -1,4 +1,4 @@
-package transform
+package mapping
 
 func Transform(set []complex128, f func(complex128) complex128) []complex128 {
 	result := make([]complex128, len(set))
