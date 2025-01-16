@@ -22,3 +22,8 @@ $$D_2 = \{z \in \mathbb{C} \mid \operatorname{Im} z > 0, \operatorname{Re} z > 0
 
 $$g(z) = \ln(z) + i \cdot 2\arg(z)$$
 
+### Результат работы программы
+
+![](assets/pic1.png)
+
+![](assets/pic2.png)
